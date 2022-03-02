@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a security researcher and I like reverse engineering, vulnerability research, and exploitation.
+
+I like low-level development and making useful tools.
+
+On my repository you will find a lot of school projects and you might find some public tools I've written.
+
+If you want to contact me you can write an e-mail at: adam@taguirov.com.
+
+I am **not** open for job opportunities for now.
+
 <!--
 **AdamTaguirov/AdamTaguirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
