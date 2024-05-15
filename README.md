@@ -2,7 +2,7 @@
 
 I am a security researcher and I like reverse engineering, vulnerability research, and exploitation.
 
-I like low-level development and making useful tools. I am currently working on iOS internals.
+I like low-level development and making useful tools.
 
 Please never use the tools or code I publish for malicious purposes. Everything I make is either for **educational purposes** or **community oriented**.
 
